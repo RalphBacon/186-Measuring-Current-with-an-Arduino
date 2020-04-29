@@ -46,6 +46,7 @@ https://www.banggood.com/GY-INA219-High-Precision-I2C-Digital-Current-Sensor-Mod
 <br>
 <br>
 <br>
+<br>
 <div style="clear:both">
   <img src="/images/ACS712.jpg" width="15%" align="left">
 Banggood ACS712 Analog Module 5A /10A / 20A Current Detection Board  
