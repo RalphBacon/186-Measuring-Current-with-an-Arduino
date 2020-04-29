@@ -11,6 +11,8 @@ Let's investigate whether an analog or digital device is better for detecting an
 All this information plus sketches and more in my GitHub:
 https://github.com/RalphBacon/186-Measuring-Current-with-an-Arduino
 
+<img src="/images/Electronic Load.jpg" width="25%" align="left">
+
 ### INFORMATION	
 
 Good reading on the INA219  
@@ -35,11 +37,15 @@ http://bit.ly/YouTubeVideoList-RalphBacon
 ### PRODUCTS
 Links may be affiliate links that help support my channel - thank you for your support!
 
+<div><img src="/images/INA219.jpg" width=25% align="left"><br>
 Banggood INA219 High Precision I2C Digital Current Sensor Module $3.27 + shipping  
 https://www.banggood.com/GY-INA219-High-Precision-I2C-Digital-Current-Sensor-Module-p-1200612.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
+</div>
 
+<div style="clear:both">
 Banggood ACS712 Analog Module 5A /10A / 20A Current Detection Board  
 https://www.banggood.com/ACS712-Module-5A-10A-20A-Current-Detection-Board-ACS712-Hall-Current-Sensor-Module-p-1546325.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897  
+</br>
 
 Banggood Electronic Load Ageing Battery Power Capacity Tester Module  
 https://www.banggood.com/Original-ZHIYU-60W-110W-9_99A-30V-Constant-Current-Electronic-Load-Aging-Battery-Capacity-Tester-p-1146280.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897  
