@@ -1,4 +1,4 @@
-# 186 Measuring Current with an Arduino
+# Video #186 Measuring Current with an Arduino
 Measuring current is both easy and very accurate using a current sensing module and an Arduino.  
 PCBWay $5 for 10 pieces https://www.pcbway.com  
 PCB Prototyping the easy way - see my video #129 for Hands-On details.  
@@ -7,9 +7,6 @@ PCB Prototyping the easy way - see my video #129 for Hands-On details.
 ### Direct link to video: https://youtu.be/tEOLI08wqTU  
 
 Let's investigate whether an analog or digital device is better for detecting and measuring current in all sorts of circuits - up to 26V and 30A.
-
-All this information plus sketches and more in my GitHub:  
-https://github.com/RalphBacon/186-Measuring-Current-with-an-Arduino
 
 <img src="/images/Electronic Load.jpg" width="15%" align="left">
 
