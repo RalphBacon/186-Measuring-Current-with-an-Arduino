@@ -41,10 +41,9 @@ Links may be affiliate links that help support my channel - thank you for your s
 
 <div><img src="/images/INA219.jpg" width="15%" align="left">
 Banggood INA219 High Precision I2C Digital Current Sensor Module $3.27 + shipping  
+  Easy to use via I2C (really, it is) and gives a lot of control over the level of detail you want to retrieve. I'm just getting the current in the video but you can do lots more!
 https://www.banggood.com/GY-INA219-High-Precision-I2C-Digital-Current-Sensor-Module-p-1200612.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
-<br></div>
-<br>
-<br>
+</div>
 <br>
 <br>
 <br>
