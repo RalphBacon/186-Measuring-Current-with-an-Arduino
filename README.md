@@ -27,6 +27,9 @@ http://www.ti.com/lit/ds/symlink/ina219.pdf
 Sparkfun Datasheet for **ACS712** (analog current sensor)  
 https://www.sparkfun.com/datasheets/BreakoutBoards/0712.pdf  
 
+**Alternative library** as suggested by viewer Matt Shepcar  
+https://github.com/flav1972/ArduinoINA219  
+
 ### List of all my videos
 (Special thanks to Michael Kurt Vogel for compiling this)  
 http://bit.ly/YouTubeVideoList-RalphBacon
